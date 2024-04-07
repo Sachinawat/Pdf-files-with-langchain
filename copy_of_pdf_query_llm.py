@@ -21,7 +21,7 @@ from langchain.vectorstores import ElasticVectorSearch, Pinecone, Weaviate, FAIS
 # Get your API keys from openai, you will need to create an account.
 # Here is the link to get the keys: https://platform.openai.com/account/billing/overview
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "open ai key"
 
 # connect your Google Drive
 from google.colab import drive
